@@ -36,7 +36,7 @@ The Stack is in active development, maintained independently by one person, with
 
 - Open a GitHub **issue** to raise a problem or a question.
 - Open a **pull request** to suggest a change.
-- Or email **[contact email]**.
+- Or email **WitnessMarkGitHub@proton.me**.
 
 There is no submission fee and no editorial gatekeeping; feedback is reviewed informally and as time allows.
 
