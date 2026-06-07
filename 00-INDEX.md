@@ -37,7 +37,7 @@ Not stacked, but cutting across every layer:
 
 ## The meta-constraint
 
-- **Bounded Power Framework (SCBP)** — the highest layer: the limits on authority itself — expiration, stop mechanisms, renewal, containment. It governs every layer below and exempts none, including itself. *Failure: constitutional drift — the rules that bound everyone quietly eroding.* It is the most developed part of this work and is maintained as its own repository under [WitnessMark](https://github.com/WitnessMark).
+- **Bounded Power Framework (SCBP)** — the highest layer: the limits on authority itself — expiration, stop mechanisms, renewal, containment. It governs every layer below and exempts none, including itself. *Failure: constitutional drift — the rules that bound everyone quietly eroding.* It is the most developed part of this work; its full text is consolidated here in **[01-Bounded-Power-Framework.md](01-Bounded-Power-Framework.md)** and maintained canonically as its own repository under [WitnessMark](https://github.com/WitnessMark).
 
 ## Two directions, one containment rule
 

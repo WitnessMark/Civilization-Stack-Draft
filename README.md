@@ -12,8 +12,9 @@ The answer is allowed to differ in each domain. The question is not.
 
 ## The domains
 
-Each is a single consolidated draft. Depth varies — some are extensive, others are earlier.
+The foundational layer is finished; the rest are consolidated drafts at varying depth.
 
+- **[Bounded Power Framework](01-Bounded-Power-Framework.md)** — the foundational layer and meta-constraint: the limits on authority itself (expiration, stop mechanisms, renewal, containment) that govern every domain below and exempt none. The mature, completed work, included here as a read-only mirror of its standalone repository.
 - **[Infrastructure](02-Infrastructure-DRAFT.md)** — Energy, water, transport, and communications kept modular, redundant, and repairable, so the physical layer stays maintainable instead of locked in.
 - **[Economy](03-Economy-DRAFT.md)** — How provision is coordinated across strangers without letting economic power concentrate beyond reach.
 - **[Data](04-Data-DRAFT.md)** — How information is collected, kept, and used so records serve the people they describe rather than becoming a permanent watch they cannot escape.
@@ -28,7 +29,7 @@ A fuller architecture map — how the layers rest on and bound one another, and 
 
 ## Relationship to the Bounded Power Framework
 
-The foundational layer is the **Bounded Power Framework (BPF)** — the meta-constraint on authority itself (expiration, stop mechanisms, renewal, containment) that governs every domain here and exempts none. BPF is the most developed part of this work and is maintained as its own repository under [WitnessMark](https://github.com/WitnessMark). These domains operationalize that same throughline within their own slice of civilization.
+The foundational layer is the **Bounded Power Framework (BPF)** — the meta-constraint on authority itself (expiration, stop mechanisms, renewal, containment) that governs every domain here and exempts none. BPF is the most developed part of this work. Its full text is consolidated here as a read-only mirror — see **[01-Bounded-Power-Framework.md](01-Bounded-Power-Framework.md)** — and maintained canonically as its own repository under [WitnessMark](https://github.com/WitnessMark). These domains operationalize that same throughline within their own slice of civilization.
 
 ## Status and feedback
 
@@ -36,7 +37,7 @@ The Stack is in active development, maintained independently by one person, with
 
 - Open a GitHub **issue** to raise a problem or a question.
 - Open a **pull request** to suggest a change.
-- Or email **WitnessMarkGitHub@proton.me**.
+- Or email **[contact email]**.
 
 There is no submission fee and no editorial gatekeeping; feedback is reviewed informally and as time allows.
 
